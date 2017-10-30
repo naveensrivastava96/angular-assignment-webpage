@@ -1,0 +1,103 @@
+.hero-title {
+  font-weight: 300;
+  color: #fff;
+  text-align: center;
+  margin-top: 0;
+  text-shadow: 1px 1px 4px rgba(0,0,0,.8);
+}
+
+.home-search {
+  width: 700px;
+  border-radius: 3px;
+  box-shadow: 0 26px 64px 0 rgba(0,0,0,.6);
+  margin: 40px auto 150px;
+  position: relative;
+}
+
+.we-deliver-in {
+  color: #fff;
+  font-size: 12px;
+  font-weight: 700;
+  margin: 20px auto;
+  position: absolute;
+  left: 0;
+  width: 100%;
+  text-align: center;
+}
+
+.we-deliver-in .shade {
+  color: #f4f4f5;
+  margin-right: 5px;
+  font-size: 10px;
+}
+
+.home-search .type-location-container {
+  position: relative;
+  float: left;
+}
+
+.home-search .type-location {
+  padding: 20px 110px 20px 50px;
+  background: #fff;
+  width: 500px;
+  height: 54px;
+  border: 0;
+  outline: 0;
+  color: #3e4152;
+  font-size: 14px;
+  text-overflow: ellipsis;
+  border-radius: 3px 0 0 3px;
+}
+
+.home-search .type-location-container .search-icon {
+  position: absolute;
+  left: 18px;
+  top: 19px;
+  font-size: 14px;
+  color: #686b78;
+}
+
+.home-search .type-location-container .locate-me {
+  position: absolute;
+  right: 0;
+  top: 0;
+  background: #fff;
+  color: rgba(104,107,120,.8);
+  vertical-align: middle;
+  height: 34px;
+  padding: 0 10px;
+  margin: 10px;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.home-search .type-location-container .locate-me-divider {
+  display: none;
+}
+
+.home-search .type-location-container .locate-me-icon {
+  position: relative;
+  top: 10px;
+  right: 3px;
+}
+.home-search .type-location-container .locate-me-text {
+  top: 9px;
+  position: relative;
+  font-weight: 700;
+}
+
+.home-search .show-restaurants {
+  width: 200px;
+  height: 54px;
+  background-color: #fc8019;
+  padding: 20px;
+  float: left;
+  color: #fff;
+  text-align: center;
+  font-weight: 700;
+  font-size: 13px;
+  border-radius: 0 3px 3px 0;
+  border: 0;
+  outline: 0;
+  cursor: pointer;
+}

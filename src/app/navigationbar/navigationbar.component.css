@@ -1,0 +1,12 @@
+.btnlog {
+  margin-top: 10px;
+  margin-left: 10px;
+  font-size: 14px;
+  display: inline-block;
+  border: 1px solid #1a1a1a;
+  border-radius: 3px;
+  padding: 5px 18px;
+  text-decoration: none;
+  cursor: pointer;
+  color: #1a1a1a;
+}
